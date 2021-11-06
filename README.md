@@ -5,6 +5,6 @@
 
 # Competitive Landscape
 ## Key Competitor
-Beanwo
+Beanworks, Bench, fusebill, MindBridge, Procurify
 
 # Company business
