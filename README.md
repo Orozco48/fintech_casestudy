@@ -8,5 +8,15 @@
 Beanworks, Bench, fusebill, MindBridge, Procurify
 
 # Company business
-##SWOT Analysis
+## SWOT Analysis
+### Strengths
+Can process credit card payments
+Project management & time tracker
+Collaboration tools with your team or even your client
+Lots of automation features for invoicing
+### Weaknesses
+No bills
+No payroll
+Limited report customization options
+
 # hello world1
