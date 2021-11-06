@@ -19,4 +19,6 @@ No bills
 No payroll
 Limited report customization options
 
-# hello world1
+
+# How does this company use technology to their advantage? Why are they considered a FinTech company?
+The company is an on demand software (SaaS). It is web based and it is accessible to end consumers via a desktop computer of mobile device
