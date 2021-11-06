@@ -21,5 +21,5 @@ Limited report customization options
 
 
 # How does this company use technology to their advantage? Why are they considered a FinTech company?
-The company is an on demand software (SaaS). It is web based and it is accessible to end consumers via a desktop computer of mobile device. You can argue that they are a FinTech company since they provide financial solutions (recorkkeeping, etc.) while using we based software.
+The company uses on demand software (SaaS). It is web based and it is accessible to end consumers via a desktop computer of mobile device. You can argue that they are a FinTech company since they provide financial solutions (recorkkeeping, etc.) while using we based software.
 Their technology allows for a convenient way for consumers to access their services.
